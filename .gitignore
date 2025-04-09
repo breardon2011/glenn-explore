@@ -60,8 +60,6 @@ node_modules/
 dist/
 dist-ssr/
 *.local
-.env
-.env.*
 !.env.example
 
 # Keys
@@ -136,3 +134,4 @@ Thumbs.db
 .ideas
 
 .cursor/rules
+config.bat
